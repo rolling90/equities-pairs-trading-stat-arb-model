@@ -20,6 +20,8 @@ evaluates performance using out-of-sample testing.
 ---
 
 ## Known deficiencies
+- yfinance (python's Yahoo finance library) is used for data downloads, because I do not have access to Bloomberg on my personal laptop.
+  Thus I can only create a model that tests tickers available on yfinance. E.g. yfinance excludes full rates universe (yield curve constituents). 
 - An equity index with a small number of constituents (CAC40) has been intentionally used to limit personal laptop computing power expense
 - Transaction costs: dynamic rolling period TCA is ignored for transaction costs
 - Additional entry signal validation, such as testing for predictive structure in individual equities’ return series (e.g. autocorrelation).
