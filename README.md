@@ -40,7 +40,7 @@ This project demonstrates my skills in:
 ## About Me
 I have 20 years of experience in finance:
 - 10 years in derivatives sales and structuring at Barclays Capital, Lloyds Banking Group, and Crédit Agricole CIB, where I became a derivatives
-  structurign desk head and Deputy Chief Dealer.
+  structuring desk head and Deputy Chief Dealer.
 - 10 years in non-front office roles at J.P. Morgan, Goldman Sachs and Morgan Stanley, across Risk, Middle Office and Exotic Derivatves Valuations Control.
 
 I am now upgrading my **programming and quantitative skills** with the goal of re-entering investment banking or hedge funds in a quantitative or quant-related role.
