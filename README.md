@@ -1,6 +1,6 @@
 # Equities Pairs Trading Strategy
 
-This project implements an **equities mean reversion pairs trading model** in Python.  
+This project implements an **equities pairs trading model** in Python.  
 The strategy identifies potentially cointegrated equity pairs, generates entry and exit signals based on z-score thresholds, and evaluates performance using out-of-sample testing.
 
 ---
