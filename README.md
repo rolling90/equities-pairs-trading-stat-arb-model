@@ -6,7 +6,7 @@ The strategy identifies potentially cointegrated equity pairs, generates entry a
 ---
 
 Purpose:
-- Demonstrate personal progress in python coding proficiency in a quant finance (buy-side) context.
+- Further my career opportunities by upskilling. Demonstrate personal progress in python coding proficiency in a quant finance (buy-side) context.
 - No python knowledge before 9 June 2025. Today 29 August 2025. 12 weeks of learning.
 
 Methodology:
