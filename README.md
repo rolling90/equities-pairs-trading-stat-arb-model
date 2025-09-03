@@ -17,6 +17,7 @@ Methodology:
 - define performance calculation and presentation functions
 - define functions to identify cointegrated pairs for trading strategy
 - define functions to generate z-score entry/exit trading signals and portfolio positions
+- scale positions by rolling volatility
 - evaluate multiple user defined z-score exit threshold levels and automatically select optimal exit threshold
 - execute stratey for optimised exit z-score threshold
 - display performance charts (returns, signals generated for one example pair, drawdown, duration) and summary data (returns, sharpe, etc)
