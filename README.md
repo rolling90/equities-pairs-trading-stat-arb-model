@@ -32,6 +32,6 @@ Known deficiencies:
 
 ## About Me
 I have 20 years of experience in finance:
-- 10 years in cash & derivatives dealing at Barclays Capital, Lloyds Banking Group, and Crédit Agricole CIB
-- Prior derivaives desk head / Deputy Chief Dealer at Credit Agricole CIB, generating $26.5m in desk PnL and $15m in individual PnL in top year.
-- 10 years in non-front office roles at global investment banks - Risk and exotic rates derivatves valuations control.
+- 14 years in execution trading at Barclays Capital, Lloyds Banking Group, Crédit Agricole CIB and corporate treasury
+- Prior FX & rates derivaives sales-trading desk head at Credit Agricole CIB, generating $26.5m in desk PnL and $15m in individual PnL in top year.
+- 6 years in non-front office roles at global investment banks - market risk and exotic rates derivatves valuations control.
