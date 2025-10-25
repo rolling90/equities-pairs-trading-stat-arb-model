@@ -31,7 +31,6 @@ Known deficiencies:
 ---
 
 ## About Me
-I have 20 years of experience in finance:
-- 14 years in execution trading at Barclays Capital, Lloyds Banking Group, Crédit Agricole CIB and corporate treasury
-- Prior FX & rates derivaives sales-trading desk head at Credit Agricole CIB, generating $26.5m in desk PnL and $15m in individual PnL in top year.
-- 6 years in non-front office roles at global investment banks - market risk and exotic rates derivatves valuations control.
+- 20 years' finance experience, of which 14 years in execution trading - macro markets.
+- Prior employers include Morgan Stanley, Deutsche Bank, Barclays Capital, Crédit Agricole CIB.
+- Ex Heaad of FX & rates Derivaives Sales-Trading at Credit Agricole CIB. Top year: generated $26.5m desk PnL & $15m individual PnL.
