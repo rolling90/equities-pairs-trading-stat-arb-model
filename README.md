@@ -5,11 +5,6 @@ The strategy identifies potentially cointegrated equity pairs, generates entry a
 
 ---
 
-Purpose:
-- To further my career opportunities through upskilling.
-- To demonstrate personal progress in python coding proficiency in a quant finance (buy-side) context.
-- No python knowledge before 9 June 2025. Today 29 August 2025. 12 weeks of learning.
-
 Methodology:
 - download data for an equity index and its constituents
 - clean data
@@ -31,7 +26,6 @@ Known deficiencies:
 ---
 
 ## About Me
-- 20 years' finance experience, of which 14 years in execution trading - macro markets.
+- 20 years' finance experience
 - Prior employers include Morgan Stanley, Deutsche Bank, Barclays Capital, Crédit Agricole CIB.
-- Ex Head of FX & Rates Derivaives Sales-Trading at Credit Agricole CIB.
-- Top year: generated $26.5m desk PnL & $15m individual PnL.
+- 10 years in front office derivatives struturing/trading roles.
